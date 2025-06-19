@@ -1,0 +1,2 @@
+*.h5
+!model/accuracy70.h5
